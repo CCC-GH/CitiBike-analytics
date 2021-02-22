@@ -2,7 +2,7 @@
 
 ## [Tableau Public Page](https://public.tableau.com/profile/carl.coffman#!)
 
-![Tableau Picture](Images/tableauSmall.png)![Tableau Picture](Images/tableauSmall2.PNG)
+![Tableau Picture](Images/tableauSmall2.PNG) _ ![Tableau Picture](Images/tableauSmall.png)
 
 Unit 20-Tableau
  
